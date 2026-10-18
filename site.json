@@ -2,8 +2,8 @@
   "version": "v12.0.28",
   "installer": {
     "version": "v12.0.28",
-    "code": 98,
-    "path": "downloads/rogue-survivor-12.0.28.apk",
-    "sha256": "6d1f1c9deda8ff1d741ff952bed80cea3492e6ed26b66fb228f49436c3e06fa1"
+    "code": 99,
+    "path": "downloads/rogue-survivor-12.0.28-code99.apk",
+    "sha256": "79c5d61505d4b733b86e50cda3c25d6504b7fee00c3672a646e771bec4c15b00"
   }
 }
