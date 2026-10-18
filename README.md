@@ -2,7 +2,7 @@
 
 首次安装或升级更新壳：[下载Android安装包 v12.0.28](https://12346-com.github.io/rogue-survivor-updates/downloads/rogue-survivor-12.0.28-code99.apk)。请直接覆盖安装，保留原存档。
 
-游戏内入口：设置 → 更新。内容版本：v12.0.28。
+游戏内入口：设置 → 更新。内容版本：v12.0.29。
 
 默认更新地址：https://fnhdd.xyz/game/android-updates/latest.json
 
